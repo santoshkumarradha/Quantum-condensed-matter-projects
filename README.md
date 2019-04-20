@@ -6,6 +6,7 @@ Set of my own codes written during the course of my PhD
 
 ------------------------------------------------------------------------------
 2) **2DEG density calculation** from DFT electron density in n-layer Li_xCoO_2 system
+  Free electron tight binding model in triangular lattice for the "anomolous" bands in monolayer
 
 ------------------------------------------------------------------------------
 3) **QUESTAAL** suit custom bands with color weight plotting added
