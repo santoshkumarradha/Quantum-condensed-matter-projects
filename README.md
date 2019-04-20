@@ -19,4 +19,7 @@ Set of my own codes written during the course of my PhD
 4) **Tightbinding models** for hexogonal non planar systems along with **berry curvature** calculation. Plotting of Conduction-Valence to show the topologica transition from Nodal Line Semimetal to Dirac semi metal by breaking the Parity symetry in the system. 
 
 ------------------------------------------------------------------------------
-4) Clasical vector **Dipole strength in different lattices** as a function of nth neareast neibghor. (note the amazing effect of cubic symetry forcing the dipole to be short range) 
+5) Clasical vector **Dipole strength in different lattices** as a function of nth neareast neibghor. (note the amazing effect of cubic symetry forcing the dipole to be short range) 
+
+------------------------------------------------------------------------------
+6) Calculation of all possible **theormodynamic reactions/decomposition of a given Quantum crystal** system (CsSiX3 in this case ) and calculation/plotting of 3D convex Hull of an 3 atom system using energies from Materials project and custom calculation from QUESTAAL suit for ther paper [https://doi.org/10.1002/pssa.201800962](https://doi.org/10.1002/pssa.201800962)
