@@ -13,7 +13,10 @@ Set of my own codes written during the course of my PhD
 3) **QUESTAAL** suit custom bands with color weight plotting added
 
 ------------------------------------------------------------------------------
-3) Structure generation using Delaunay triangulation algorithm for Li placement on monolayer CoO2 and currosponding calculation of spatial depedence of energy and Magnetic moment
+3) **Structure generation using Delaunay triangulation algorithm** for Li placement on monolayer CoO2 and currosponding calculation of spatial depedence of energy and Magnetic moment
 
 ------------------------------------------------------------------------------
-4) Tightbinding models for hexogonal non planar systems along with berry curvature calculation. Plotting of Conduction-Valence to show the topologica transition from Nodal Line Semimetal to Dirac semi metal by breaking the Parity symetry in the system. 
+4) **Tightbinding models** for hexogonal non planar systems along with **berry curvature** calculation. Plotting of Conduction-Valence to show the topologica transition from Nodal Line Semimetal to Dirac semi metal by breaking the Parity symetry in the system. 
+
+------------------------------------------------------------------------------
+4) Clasical vector **Dipole strength in different lattices** as a function of nth neareast neibghor. (note the amazing effect of cubic symetry forcing the dipole to be short range) 
