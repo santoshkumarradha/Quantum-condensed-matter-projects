@@ -9,3 +9,6 @@ Set of my own codes written during the course of my PhD
 
 ------------------------------------------------------------------------------
 3) **QUESTAAL** suit custom bands with color weight plotting added
+
+------------------------------------------------------------------------------
+3) Structure generation using Delaunay triangulation algorithm for Li placement on monolayer CoO2 and currosponding calculation of spatial depedence of energy and Magnetic moment
