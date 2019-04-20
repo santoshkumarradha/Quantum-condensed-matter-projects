@@ -1,0 +1,2 @@
+- Quick monolayer LiCoO2 generation with Li at positions respecting symetries formed using the mid points of Delaunay triangulation algorithm
+- Along with plot of spatial depedence of currosponding energy and Magnetic moment. ( need to be rechecked ) calculator is an external wrapper to QUESTAAL code ( will be adding it later on)
