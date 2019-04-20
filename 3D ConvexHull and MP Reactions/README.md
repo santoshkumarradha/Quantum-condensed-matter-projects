@@ -1,0 +1,1 @@
+Collection of Jupyter codes to analyize all possible reactions/ decomposition of a given crystel (CsSiX3 in this example) and to look for the loswet energy decomposition along with plotting the 3D convex hull of the given 3 species sytem using energies from both Materials project and QUESTAAL calculations
