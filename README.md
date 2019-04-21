@@ -26,5 +26,5 @@ Set of my own codes written during the course of my PhD
 
 ------------------------------------------------------------------------------
 
-![equation](https://ibb.co/L6v0PYm)
+![equation](https://i.ibb.co/nfRw069/Screen-Shot-2019-04-20-at-9-06-00-PM.png)
 8) **Quantum monte carlo** using Metropolis algorithm. Interesting part is using a realistic theory for the simulation (self consistant tight binding theory in this case, but DFT theories like LDA/GGA can be used too). This was done inorder to avoid the complx modeling of exchange parameters in the heisenburg hameltonian which was mapped from a pseudo spin -1/2 system. 
