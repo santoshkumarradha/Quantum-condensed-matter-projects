@@ -31,4 +31,4 @@ Set of my own codes written during the course of my PhD
 
 
 ------------------------------------------------------------------------------
-9) **Neural nets for structure generation** Very very early atempt on using Materials project rpository to create a crystal representation using 3D point cloud algorithms. Will update the idea and notes soon.
+9) **Neural nets for structure generation** Very very early atempt on using Materials project rpository to create a crystal representation using 3D point cloud algorithms with both GAN and VAE type nets. Will update the idea and notes soon.
