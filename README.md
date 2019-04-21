@@ -2,7 +2,7 @@ Name a thing that is extremely polar and can move only in one direction !
 - Time ordered Greens function ! ( ͡° ͜ʖ ͡°)
 
 # Quantum_projects
-Set of my own codes written during the course of my PhD. Almost all of them are in python and to make it easier, have rewritten in jupyter notebooks. There might be couple of C/FORTRAN or Julia codes which are specificaly designed to work with LAPACK and BLAS libraries. All the codes are for internal/personal use and is not meant to be a final user usable version. 
+Set of my own codes written during the course of my PhD. Almost all of them are in python and to make it easier, have rewritten in jupyter notebooks. There might be couple of C/FORTRAN or Julia codes sneaking in there which are specificaly designed to work with LAPACK and BLAS libraries (just a cautionary note to compile them right!). All the codes are for internal/personal use and is not meant to be a final user usable version. 
 
 
 
