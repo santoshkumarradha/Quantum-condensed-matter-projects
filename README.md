@@ -39,3 +39,7 @@ Set of my own codes written during the course of my PhD. Almost all of them are 
 
 ------------------------------------------------------------------------------
 9) **Neural nets for structure generation** Very very early atempt on using Materials project rpository to create a crystal representation using 3D point cloud algorithms with both GAN and VAE type nets. Will update the idea and notes soon.[Nbviewer link](https://nbviewer.jupyter.org/github/santoshkumarradha/Quantum-condensed-matter-projects/blob/master/Neural%20Network%20Structure%20Generation/ann%20project.ipynb)
+
+
+------------------------------------------------------------------------------
+10) **[Atomic Simulation Environment](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiqwr6ZneXhAhUBKKwKHdW2B-IQFjAAegQIBhAC&url=https%3A%2F%2Fwiki.fysik.dtu.dk%2Fase%2F&usg=AOvVaw2Ut7wXZpe1ynrtJKgrzNlU)** Interfaqce to QUESTAAL code in its very early stage couple of working example of the class are provided in the notebook.[Nbviewer link](https://nbviewer.jupyter.org/github/santoshkumarradha/Quantum-condensed-matter-projects/blob/master/ASE%20Interface/class_working.ipynb)
