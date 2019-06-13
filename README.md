@@ -17,7 +17,7 @@ Set of my own codes written during the course of my PhD. Almost all of them are 
   Free electron tight binding model in triangular lattice for the "anomolous" bands in monolayer [Nbviewer link](https://nbviewer.jupyter.org/github/santoshkumarradha/Quantum-condensed-matter-projects/blob/master/2DEG%20density/density%20calculation.ipynb)
 
 ------------------------------------------------------------------------------
-3) **QUESTAAL** suit custom bands with color weight plotting added [NbViewer Link](https://nbviewer.jupyter.org/github/santoshkumarradha/Quantum-condensed-matter-projects/blob/master/plotting%20bands/bands%20plot.ipynb)
+3) **QUESTAAL** suit custom bands with color weight plotting added [NbViewer Link](https://nbviewer.jupyter.org/github/santoshkumarradha/Quantum-condensed-matter-projects/blob/master/plotting%20bands/plot%20bands.ipynb)
 
 ------------------------------------------------------------------------------
 4) **Structure generation using Delaunay triangulation algorithm** for Li placement on monolayer CoO2 and currosponding calculation of spatial depedence of energy and Magnetic moment [Nbviewer link](https://nbviewer.jupyter.org/github/santoshkumarradha/Quantum-condensed-matter-projects/blob/master/Structure%20generation%20and%20Mag%20mom/structures%20and%20Mag%20Mom.ipynb)
