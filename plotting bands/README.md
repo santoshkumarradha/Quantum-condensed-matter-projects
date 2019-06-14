@@ -9,7 +9,10 @@ copy the .py files to the bin directory and do chmod +x *.py with both the .py f
 download instructions -
 
 wget https://raw.githubusercontent.com/santoshkumarradha/Quantum-condensed-matter-projects/master/plotting%20bands/mksyml.py
+
 wget https://raw.githubusercontent.com/santoshkumarradha/Quantum-condensed-matter-projects/master/plotting%20bands/plotquestaal.py
+
+
 chmod +x mksyml.py
 chmod +x plotquestaal.py
 
